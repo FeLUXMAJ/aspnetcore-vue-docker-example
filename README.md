@@ -13,3 +13,10 @@ Start the example:
 ```bash
 $ docker-compose up
 ```
+
+## Stop
+
+If you want to stop containers and remove them, then run:
+```
+$ docker-compos down
+```
