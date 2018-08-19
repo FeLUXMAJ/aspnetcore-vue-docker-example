@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+**/out/
+**/node_modules/
+**/dist/
+.vs/
+.vscode/
+.gitignore
+.dockerignore
+.editorconfig
+npm-debug.log

@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+
+  aspnetcore.api:
+    build:
+      context: .
+      dockerfile: src/backend/MyApi/Dockerfile
+    ports:
+      - "5000:80"
+      - "5001:443"
