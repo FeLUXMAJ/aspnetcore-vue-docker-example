@@ -4,12 +4,12 @@
 
 ## Start
 
-Start the API service:
+Start the API services:
 ```bash
 $ docker-compose -f docker-compose-api.yml  up
 ```
 
-Start the example:
+Start entire App that includes API services and Vue SPA:
 ```bash
 $ docker-compose up
 ```
