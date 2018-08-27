@@ -18,5 +18,5 @@ $ docker-compose up
 
 If you want to stop containers and remove them, then run:
 ```
-$ docker-compos down
+$ docker-compose down
 ```
